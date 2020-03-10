@@ -393,3 +393,4 @@ Unfortunately, this platform limitation does mean that it's not possible to use 
 
 As the plugin class is not static, it is possible to mock and verify it's behaviour when writing tests as part of your application. Check the source code for a sample test suite can be found at _test/flutter_local_notifications_test.dart_ that demonstrates how this can be done.
 # handongsam1
+# handongsam
